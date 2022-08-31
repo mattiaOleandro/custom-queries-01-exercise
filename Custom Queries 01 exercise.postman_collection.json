@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "ed8e4db7-0b23-463c-8199-46e46f381352",
+		"name": "Custom Queries 01 exercise",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21617836"
+	},
+	"item": [
+		{
+			"name": "getRandomFlights",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "getAllFlights",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
